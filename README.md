@@ -1,4 +1,4 @@
-# CreativeCoding-VCD-2023Fall
+# CreativeCoding-ID-2023Fall
 CreativeCoding for Visual Communication Design Students
 
 DES2325-1 CreativeCoding2023Fall repository
