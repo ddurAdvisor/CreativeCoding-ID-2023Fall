@@ -3,7 +3,7 @@ CreativeCoding for Visual Communication Design Students
 
 DES2325-1 CreativeCoding2023Fall repository
 
-创意编程[视觉传达设计专业]2023秋季课程
+创意编程[工业设计专业]2023秋季课程
 
 课程简介 本课程立足于培养学生借助计算方法进行创意设计问题求解的能力。
 
